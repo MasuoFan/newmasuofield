@@ -4267,7 +4267,7 @@ aS(a,b,c,d){var s=A.a(A.a(v.G.document).createElement("div")),r=new A.W(s)
 r.j(s,a,b,c,d)
 return r},
 a_(a,b,c,d){var s,r,q=A.a(A.a(v.G.document).createElement("img"))
-q.src="https://masuofan.github.io/newmasuofield/images/"+a+"."+b
+q.src="./images/"+a+"."+b
 s=new A.fA(q)
 s.j(q,c,null,null,d)
 r=A.a(q.style)
@@ -5156,7 +5156,7 @@ n.n(0,p,o)
 p=o}else p=o
 J.o0(p,q)}return n},
 tm(){var s=A.a(v.G.window)
-if(false){A.a(s.location).href="https://masuofan.github.io/newmasuofield"
+if(false){A.a(s.location).href="https://masuofan.github.io/"
 return}A.f1()},
 O(a){var s=t.N,r=t.z
 return t.f.b(a)?A.a8(a,s,r):A.aq(s,r)},
