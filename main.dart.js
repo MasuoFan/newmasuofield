@@ -15195,7 +15195,7 @@ A.mS.prototype={
 $0(){var s=this.a.a
 if(A.v(s.value)!==$.aO.v().c){$.t()
 s=A.v(s.value)
-A.a(A.a(v.G.window).location).href="./?lang="+s}},
+A.a(A.a(v.G.window).location).href="/?lang="+s}},
 $S:0}
 A.hU.prototype={
 j7(){var s,r,q,p=$.r.v(),o=A.a(A.a(v.G.document).createElement("div")),n=new A.j4(o)
