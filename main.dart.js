@@ -5156,7 +5156,11 @@ n.n(0,p,o)
 p=o}else p=o
 J.o0(p,q)}return n},
 tm(){var s=A.a(v.G.window)
+/*
 if(false){A.a(s.location).href="dummy"
+return}A.f1()},
+*/
+if(B.d.R(A.v(A.a(s.location).hostname),"app")||A.v(A.a(s.location).pathname)!=="/"){A.a(s.location).href="https://google.com"
 return}A.f1()},
 O(a){var s=t.N,r=t.z
 return t.f.b(a)?A.a8(a,s,r):A.aq(s,r)},
