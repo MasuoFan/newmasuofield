@@ -4267,7 +4267,7 @@ aS(a,b,c,d){var s=A.a(A.a(v.G.document).createElement("div")),r=new A.W(s)
 r.j(s,a,b,c,d)
 return r},
 a_(a,b,c,d){var s,r,q=A.a(A.a(v.G.document).createElement("img"))
-q.src="./images/"+a+"."+b
+q.src="https://masuofan.github.io/newmasuofield/images/"+a+"."+b
 s=new A.fA(q)
 s.j(q,c,null,null,d)
 r=A.a(q.style)
