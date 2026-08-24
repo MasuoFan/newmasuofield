@@ -4368,7 +4368,7 @@ c=A
 b=A
 a=A
 s=3
-return A.b(A.bs(A.a(g.fetch("/i18n/"+$.aO.v().c+".json")),t.m),$async$fN)
+return A.b(A.bs(A.a(g.fetch("./i18n/"+$.aO.v().c+".json")),t.m),$async$fN)
 case 3:s=2
 return A.b(b.bs(a.a(a1.json()),t.X),$async$fN)
 case 2:i=d.O(c.nF(a1))
