@@ -2694,7 +2694,7 @@
 	],
 	"texts": {
 		"app": {
-			"title": "ゴッドフィールド"
+			"title": "新・マスオフィールド"
 		},
 		"langNames": {
 			"en": "English",
@@ -2799,57 +2799,57 @@
 			"moon": "奇跡を司る守護神"
 		},
 		"modeNames": {
-			"training": "修行",
-			"private": "隠れ乱闘",
-			"duel": "真剣タイマン"
+			"training": "修行知の事実",
+			"private": "珍々！メリーゴー乱闘！",
+			"duel": "真剣タイマンアンパンパン"
 		},
 		"modeDescriptions": {
-			"training": "コンピュータと対戦",
-			"private": "友達と対戦",
-			"duel": "2人個人戦"
+			"training": "コンピュータとマグマダイブ",
+			"private": "友達とマグマダイブ",
+			"duel": "2人でマグマダイブ"
 		},
 		"home": {
-			"userName": "預言者の名前",
-			"setUserName": "ありますか～？",
-			"underMaintenance": "サーバメンテナンス中です",
-			"versionInvalid": "アプリの更新が<br>必要です",
-			"update": "更新する"
+			"userName": "名前、ありますか～？",
+			"setUserName": "ありま～す！",
+			"underMaintenance": "メンテナンス中なのは周知の事実",
+			"versionInvalid": "アプリの更新が<br>必要なんだよね！？",
+			"update": "更新しますか～？"
 		},
 		"settings": {
-			"settings": "設定",
+			"settings": "オプション風呂",
 			"language": "言語",
-			"version": "バージョン {{version}}",
-			"design": "設計",
-			"designCredit": "グウジ",
-			"art": "美術",
-			"artCredit": "あみ",
-			"soundMaterials": "効果音素材",
-			"soundMaterialsCredit": "ザ・マッチメイカァズ",
-			"ptTranslation": "ポルトガル語翻訳",
-			"ptTranslationCredit": "Phobos & Igoor",
-			"zhHansTranslation": "簡体字中国語翻訳",
-			"zhHansTranslationCredit": "Mea Fanbox Group",
-			"frTranslation": "フランス語翻訳",
-			"frTranslationCredit": "Xirnatts",
-			"zhHantTranslation": "繁体字中国語翻訳",
-			"zhHantTranslationCredit": "藤田ちゅえん",
-			"koTranslation": "韓国語翻訳",
-			"koTranslationCredit": "MinJeong",
-			"ruTranslation": "ロシア語翻訳",
-			"ruTranslationCredit": "Master Cid",
+			"version": "バージョン風呂 {{version}}",
+			"design": "素材",
+			"designCredit": "MasuoTV",
+			"art": "設計",
+			"artCredit": "マスオファン",
+			"soundMaterials": "素材",
+			"soundMaterialsCredit": "Spacial Thanks",
+			"ptTranslation": "原作",
+			"ptTranslationCredit": "ゴッドフィールド - グウジ",
+			"zhHansTranslation": "PDS株式会社",
+			"zhHansTranslationCredit": "ペイン・ダンテ・将之介",
+			"frTranslation": "幼馴染",
+			"frTranslationCredit": "ヒカキン",
+			"zhHantTranslation": "幼馴染の兄",
+			"zhHantTranslationCredit": "セイキン",
+			"koTranslation": "友人",
+			"koTranslationCredit": "考える顔（たくんまでもいいよ）",
+			"ruTranslation": "",
+			"ruTranslationCredit": "And you!",
 			"privacyPolicy": "プライバシーポリシー",
 			"licenses": "ライセンス",
-			"deleteAccount": "アカウントを削除する",
-			"delete": "削除する"
+			"deleteAccount": "データを消す",
+			"delete": "データを消す"
 		},
 		"menu": {
-			"userCount": "預言者 {{count}} 人",
+			"userCount": "視聴者 {{count}} 人",
 			"roomPassword": "部屋の合言葉",
 			"setRoomPassword": "唱える"
 		},
 		"training": {
-			"playerCount": "修行者 {{count}} 人",
-			"players": "修行者",
+			"playerCount": "視聴者 {{count}} 人",
+			"players": "視聴者",
 			"countOption": "{{count}}人"
 		},
 		"private": {
@@ -2859,7 +2859,7 @@
 			"chatToAll": "全体にお告げ",
 			"chatToTeam": "チームにお告げ",
 			"chatLog": "お告げの記録",
-			"userCount": "預言者 {{count}} 人",
+			"userCount": "視聴者 {{count}} 人",
 			"solo": "個人戦",
 			"teams": "チーム戦",
 			"shuffleTeams": "チームをシャッフル",
@@ -2895,7 +2895,7 @@
 			"cutCost": "消費なし",
 			"doBuy": "買う",
 			"doNotBuy": "買わない",
-			"opening": "預言者たちの戦いが<br>今始まる！",
+			"opening": "視聴者たちの戦いが<br>今始まる！",
 			"tiebreak": "- 終末の時 -",
 			"tiebreakBody": "悪魔がやって来る",
 			"abandon": "戦いをあきらめる",

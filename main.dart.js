@@ -15216,7 +15216,7 @@ n.append(o)
 s=A.q9(p.a9("design"),p.a9("designCredit")).a
 A.a(s.style).top="120px"
 n.append(s)
-s=A.qa("X @guuji","https://x.com/guuji",200).a
+s=A.qa("X @masuotv","https://x.com/masuotv",200).a
 A.a(s.style).left="440px"
 A.a(s.style).top="210px"
 n.append(s)
