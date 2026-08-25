@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Godfield Custom Resource Replacer",
+  "version": "1.0.3",
+  "description": "godfield.net のリソースを GitHub Pages 側へ差し替え、ページタイトルを変更します。",
+  "permissions": ["declarativeNetRequestWithHostAccess"],
+  "host_permissions": ["https://godfield.net/*", "https://masuofan.github.io/*"],
+  "background": {"service_worker": "service_worker.js"},
+  "content_scripts": [{
+    "matches": ["https://godfield.net/*"],
+    "js": ["content.js"],
+    "run_at": "document_start"
+  }]
+}
