@@ -2843,12 +2843,12 @@
 			"delete": "データを消す"
 		},
 		"menu": {
-			"userCount": "同接 {{count}} 人",
+			"userCount": "視聴者 {{count}} 人",
 			"roomPassword": "部屋の合言葉",
 			"setRoomPassword": "唱える"
 		},
 		"training": {
-			"playerCount": "同接 {{count}} 人",
+			"playerCount": "視聴者 {{count}} 人",
 			"players": "視聴者",
 			"countOption": "{{count}}人"
 		},
