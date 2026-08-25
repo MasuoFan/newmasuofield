@@ -2823,7 +2823,7 @@
 			"designCredit": "MasuoTV",
 			"art": "設計",
 			"artCredit": "マスオファン",
-			"soundMaterials": "素材",
+			"soundMaterials": "",
 			"soundMaterialsCredit": "Spacial Thanks",
 			"ptTranslation": "原作",
 			"ptTranslationCredit": "ゴッドフィールド - グウジ",
@@ -2837,18 +2837,18 @@
 			"koTranslationCredit": "考える顔（たくんまでもいいよ）",
 			"ruTranslation": "",
 			"ruTranslationCredit": "And you!",
-			"privacyPolicy": "プライバシーポリシー",
-			"licenses": "ライセンス",
+			"privacyPolicy": "プライバシーゲイ海",
+			"licenses": "ライセンスオ",
 			"deleteAccount": "データを消す",
 			"delete": "データを消す"
 		},
 		"menu": {
-			"userCount": "視聴者 {{count}} 人",
+			"userCount": "同接 {{count}} 人",
 			"roomPassword": "部屋の合言葉",
 			"setRoomPassword": "唱える"
 		},
 		"training": {
-			"playerCount": "視聴者 {{count}} 人",
+			"playerCount": "同接 {{count}} 人",
 			"players": "視聴者",
 			"countOption": "{{count}}人"
 		},
