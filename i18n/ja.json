@@ -42,7 +42,7 @@
 			"atk": 1,
 			"price": 1,
 			"giftRate": 3,
-			"name": "銅のこん棒"
+			"name": "銅のマスオ"
 		},
 		{
 			"imageName": "silver-club",
@@ -50,7 +50,7 @@
 			"atk": 1,
 			"price": 10,
 			"giftRate": 1,
-			"name": "銀のこん棒"
+			"name": "銀のマスオ"
 		},
 		{
 			"imageName": "gold-club",
@@ -58,7 +58,7 @@
 			"atk": 1,
 			"price": 25,
 			"giftRate": 1,
-			"name": "金のこん棒"
+			"name": "金のマスオ"
 		},
 		{
 			"imageName": "blowgun",
@@ -67,7 +67,7 @@
 			"isPlusAtk": true,
 			"price": 1,
 			"giftRate": 1,
-			"name": "吹き矢"
+			"name": "ガビガビマスオ"
 		},
 		{
 			"imageName": "whip",
@@ -75,7 +75,7 @@
 			"atk": 2,
 			"price": 1,
 			"giftRate": 4,
-			"name": "ムチ"
+			"name": "紅白オ"
 		},
 		{
 			"imageName": "saver-rod",
@@ -84,7 +84,7 @@
 			"def": 6,
 			"price": 10,
 			"giftRate": 1,
-			"name": "セイバーロッド"
+			"name": "ドアマスオ"
 		},
 		{
 			"imageName": "crossbow",
@@ -93,7 +93,7 @@
 			"isPlusAtk": true,
 			"price": 2,
 			"giftRate": 1,
-			"name": "クロスボウ"
+			"name": "南千住オ"
 		},
 		{
 			"imageName": "punch",
