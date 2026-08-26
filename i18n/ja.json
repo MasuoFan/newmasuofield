@@ -110,7 +110,7 @@
 			"ability": "attackTwice",
 			"price": 10,
 			"giftRate": 1,
-			"name": "のこぶんぶん"
+			"name": "ハチハチブンブン"
 		},
 		{
 			"imageName": "boomerang",
@@ -119,7 +119,7 @@
 			"isPlusAtk": true,
 			"price": 3,
 			"giftRate": 1,
-			"name": "ブーメラン"
+			"name": "マスオまるお"
 		},
 		{
 			"imageName": "hatchet",
@@ -127,7 +127,7 @@
 			"atk": 4,
 			"price": 2,
 			"giftRate": 6,
-			"name": "ハチェット"
+			"name": "PlayStation 4"
 		},
 		{
 			"imageName": "spiked-belt",
@@ -136,7 +136,7 @@
 			"def": 2,
 			"price": 3,
 			"giftRate": 1,
-			"name": "とげベルト"
+			"name": "4"
 		},
 		{
 			"imageName": "battle-ball",
@@ -145,7 +145,7 @@
 			"isPlusAtk": true,
 			"price": 4,
 			"giftRate": 1,
-			"name": "バトルボール"
+			"name": "地図の形が4"
 		},
 		{
 			"imageName": "chain-sickle",
@@ -153,7 +153,7 @@
 			"atk": 5,
 			"price": 2,
 			"giftRate": 7,
-			"name": "鎖ガマ"
+			"name": "ちんちんメリーゴーランド"
 		},
 		{
 			"imageName": "plate-of-strike",
@@ -162,7 +162,7 @@
 			"def": 7,
 			"price": 3,
 			"giftRate": 1,
-			"name": "打撃の鉄板"
+			"name": "ゴキジェット"
 		},
 		{
 			"imageName": "bouncing-sword",
@@ -171,7 +171,7 @@
 			"ability": "bounceWeapon",
 			"price": 10,
 			"giftRate": 7,
-			"name": "乱弾武剣"
+			"name": "投資に興味はありますか？"
 		},
 		{
 			"imageName": "warrior-s-bow",
@@ -180,7 +180,7 @@
 			"isPlusAtk": true,
 			"price": 5,
 			"giftRate": 1,
-			"name": "戦士の弓"
+			"name": "いきすぎマスオ"
 		},
 		{
 			"imageName": "hard-hammer",
@@ -188,7 +188,7 @@
 			"atk": 6,
 			"price": 2,
 			"giftRate": 8,
-			"name": "硬いつち"
+			"name": "iPhone破壊マスオ"
 		},
 		{
 			"imageName": "elbow-sack",
@@ -197,7 +197,7 @@
 			"def": 3,
 			"price": 3,
 			"giftRate": 1,
-			"name": "エルボーサック"
+			"name": "うまーーい！！"
 		},
 		{
 			"imageName": "jet-yo-yo",
@@ -206,7 +206,7 @@
 			"isPlusAtk": true,
 			"price": 6,
 			"giftRate": 1,
-			"name": "ジェットヨーヨー"
+			"name": "おいし～～い！！"
 		},
 		{
 			"imageName": "glaive-classic",
@@ -214,7 +214,7 @@
 			"atk": 7,
 			"price": 3,
 			"giftRate": 8,
-			"name": "なぎなたクラシック"
+			"name": "一発芸！！"
 		},
 		{
 			"imageName": "ghost-sword",
@@ -223,7 +223,7 @@
 			"ability": "absorbHP",
 			"price": 10,
 			"giftRate": 1,
-			"name": "ゴーストソード"
+			"name": "犠牲はこぐれん"
 		},
 		{
 			"imageName": "unknown-feather",
@@ -232,7 +232,7 @@
 			"isPlusAtk": true,
 			"price": 7,
 			"giftRate": 1,
-			"name": "未知の羽根"
+			"name": "本日の主役登場!!"
 		},
 		{
 			"imageName": "final-tusk",
@@ -240,7 +240,7 @@
 			"atk": 8,
 			"price": 3,
 			"giftRate": 8,
-			"name": "ファイナル牙"
+			"name": "iPhone8がですね…"
 		},
 		{
 			"imageName": "hell-scissors",
@@ -250,7 +250,7 @@
 			"curse": "hell",
 			"price": 15,
 			"giftRate": 1,
-			"name": "地獄のハサミ"
+			"name": "激辛ドッキリ"
 		},
 		{
 			"imageName": "psychic-card",
@@ -259,7 +259,7 @@
 			"isPlusAtk": true,
 			"price": 8,
 			"giftRate": 1,
-			"name": "サイキックカード"
+			"name": "80万円のパソコンが…"
 		},
 		{
 			"imageName": "power-halberd",
@@ -267,7 +267,7 @@
 			"atk": 9,
 			"price": 3,
 			"giftRate": 7,
-			"name": "パワーハルベルト"
+			"name": "ライザップマスオ"
 		},
 		{
 			"imageName": "gale-sword",
@@ -277,7 +277,7 @@
 			"curse": "cold",
 			"price": 10,
 			"giftRate": 1,
-			"name": "疾風剣"
+			"name": "金玉見怒人生"
 		},
 		{
 			"imageName": "sky-harpoon",
@@ -287,7 +287,7 @@
 			"ability": "bounceMiracle",
 			"price": 5,
 			"giftRate": 1,
-			"name": "スカイハープーン"
+			"name": "ありまーす！"
 		},
 		{
 			"imageName": "wonder-sword",
@@ -295,7 +295,7 @@
 			"atk": 10,
 			"price": 4,
 			"giftRate": 7,
-			"name": "ワンダーソード"
+			"name": "マスオ発狂"
 		},
 		{
 			"imageName": "bogus-spear",
@@ -305,7 +305,7 @@
 			"curse": "dream",
 			"price": 10,
 			"giftRate": 1,
-			"name": "いんちきスピア"
+			"name": "寝マスオ"
 		},
 		{
 			"imageName": "sword-shield",
@@ -314,7 +314,7 @@
 			"def": 10,
 			"price": 15,
 			"giftRate": 1,
-			"name": "ソードシールド"
+			"name": "マスオ攻めるのも得意だぞ～"
 		},
 		{
 			"imageName": "reflection-sword",
@@ -323,7 +323,7 @@
 			"ability": "reflectWeapon",
 			"price": 5,
 			"giftRate": 3,
-			"name": "反射剣"
+			"name": "マスオの対称性"
 		},
 		{
 			"imageName": "moonlight-axe",
@@ -332,7 +332,7 @@
 			"ability": "reflectMiracle",
 			"price": 10,
 			"giftRate": 1,
-			"name": "月光のオノ"
+			"name": "アリマース！"
 		},
 		{
 			"imageName": "gravity-mace",
@@ -340,7 +340,7 @@
 			"atk": 11,
 			"price": 4,
 			"giftRate": 4,
-			"name": "グラビティメイス"
+			"name": "たぱーてっでらっぱんてらんたん♪"
 		},
 		{
 			"imageName": "hexagon-doom",
@@ -350,7 +350,7 @@
 			"curse": "darkcloud",
 			"price": 15,
 			"giftRate": 1,
-			"name": "六角凶"
+			"name": "炎上マスオ"
 		},
 		{
 			"imageName": "angel-knife",
@@ -359,7 +359,7 @@
 			"ability": "blockMiracle",
 			"price": 15,
 			"giftRate": 1,
-			"name": "エンゼルナイフ"
+			"name": "ありま～～す！！"
 		},
 		{
 			"imageName": "horror-wheel",
@@ -368,7 +368,7 @@
 			"isPlusAtk": true,
 			"price": 10,
 			"giftRate": 1,
-			"name": "恐怖の車輪"
+			"name": "パンパンアンパンパン"
 		},
 		{
 			"imageName": "direct-smash-axe",
@@ -376,7 +376,7 @@
 			"atk": 12,
 			"price": 4,
 			"giftRate": 4,
-			"name": "もろぶっこみアクス"
+			"name": "ラストウォーマスオ"
 		},
 		{
 			"imageName": "real-ghost-sword",
@@ -385,7 +385,7 @@
 			"ability": "absorbHP",
 			"price": 15,
 			"giftRate": 1,
-			"name": "リアルゴーストソード"
+			"name": "ベタ男が…"
 		},
 		{
 			"imageName": "spiritual-staff",
@@ -394,7 +394,7 @@
 			"ability": "cutCost",
 			"price": 20,
 			"giftRate": 1,
-			"name": "精霊の杖"
+			"name": "プロポーズマスオ"
 		},
 		{
 			"imageName": "spear-in-fine-view",
@@ -402,7 +402,7 @@
 			"atk": 13,
 			"price": 5,
 			"giftRate": 4,
-			"name": "絶景のヤリ"
+			"name": "枝豆が！"
 		},
 		{
 			"imageName": "severe-gale-sword",
@@ -412,7 +412,7 @@
 			"curse": "cold",
 			"price": 15,
 			"giftRate": 1,
-			"name": "激烈疾風剣"
+			"name": "ストレス25000"
 		},
 		{
 			"imageName": "legendary-scabbard",
@@ -421,7 +421,7 @@
 			"def": 1,
 			"price": 3,
 			"giftRate": 1,
-			"name": "伝説の剣のさや"
+			"name": "アリマース！！の椅子"
 		},
 		{
 			"imageName": "angel-sword",
@@ -430,7 +430,7 @@
 			"ability": "blockMiracle",
 			"price": 15,
 			"giftRate": 1,
-			"name": "エンゼルソード"
+			"name": "ありまーーす！"
 		},
 		{
 			"imageName": "top-of-combat",
@@ -439,7 +439,7 @@
 			"isPlusAtk": true,
 			"price": 10,
 			"giftRate": 1,
-			"name": "独楽コンバット"
+			"name": "Death-O"
 		},
 		{
 			"imageName": "violent-flail",
@@ -447,7 +447,7 @@
 			"atk": 14,
 			"price": 5,
 			"giftRate": 3,
-			"name": "暴れフレイル"
+			"name": "鶏肉オ"
 		},
 		{
 			"imageName": "evil-broadsword",
@@ -456,7 +456,7 @@
 			"ability": "dealSameDamage",
 			"price": 1,
 			"giftRate": 1,
-			"name": "邪神の大剣"
+			"name": "ムンクの叫び"
 		},
 		{
 			"imageName": "dragon-claws",
@@ -464,7 +464,7 @@
 			"atk": 15,
 			"price": 5,
 			"giftRate": 3,
-			"name": "ドラゴンクロウ"
+			"name": "ライフネットマスオ"
 		},
 		{
 			"imageName": "angel-axe",
@@ -473,7 +473,7 @@
 			"ability": "blockMiracle",
 			"price": 15,
 			"giftRate": 1,
-			"name": "エンゼルアクス"
+			"name": "アリマース！！"
 		},
 		{
 			"imageName": "angel-bow",
@@ -483,7 +483,7 @@
 			"ability": "blockMiracle",
 			"price": 15,
 			"giftRate": 1,
-			"name": "エンゼルの弓"
+			"name": "ありま～す！！"
 		},
 		{
 			"imageName": "god-sword",
@@ -491,7 +491,7 @@
 			"atk": 30,
 			"price": 30,
 			"giftRate": 1,
-			"name": "神の剣"
+			"name": "マスオファンタジア"
 		},
 		{
 			"imageName": "magical-stick",
@@ -499,7 +499,7 @@
 			"ability": "atkBy2xMP",
 			"price": 10,
 			"giftRate": 1,
-			"name": "マジカルステッキ"
+			"name": "！？"
 		},
 		{
 			"imageName": "torch",
