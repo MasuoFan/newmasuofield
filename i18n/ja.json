@@ -136,7 +136,7 @@
 			"def": 2,
 			"price": 3,
 			"giftRate": 1,
-			"name": "4"
+			"name": "んなわけあるかぁ～！"
 		},
 		{
 			"imageName": "battle-ball",
@@ -508,7 +508,7 @@
 			"atk": 1,
 			"price": 1,
 			"giftRate": 1,
-			"name": "たいまつ"
+			"name": "マグマダイブの前"
 		},
 		{
 			"imageName": "icicle",
@@ -517,7 +517,7 @@
 			"atk": 1,
 			"price": 1,
 			"giftRate": 1,
-			"name": "つらら"
+			"name": "水まんじゅう"
 		},
 		{
 			"imageName": "wooden-sword",
@@ -526,7 +526,7 @@
 			"atk": 1,
 			"price": 1,
 			"giftRate": 1,
-			"name": "木刀"
+			"name": "桜"
 		},
 		{
 			"imageName": "wind-talons",
@@ -537,7 +537,7 @@
 			"curse": "cold",
 			"price": 10,
 			"giftRate": 1,
-			"name": "風のカギ爪"
+			"name": "風邪ひいちゃった"
 		},
 		{
 			"imageName": "piece-of-brightness",
@@ -547,7 +547,7 @@
 			"isPlusAtk": true,
 			"price": 10,
 			"giftRate": 1,
-			"name": "輝きのカケラ"
+			"name": "チャットモンチーの名曲です！"
 		},
 		{
 			"imageName": "pri-pri-pricker",
@@ -556,7 +556,7 @@
 			"atk": 1,
 			"price": 10,
 			"giftRate": 1,
-			"name": "ちくりんちょ"
+			"name": "おじさん"
 		},
 		{
 			"imageName": "ouch-knife",
@@ -565,7 +565,7 @@
 			"atk": 2,
 			"price": 2,
 			"giftRate": 1,
-			"name": "あちちナイフ"
+			"name": "SMマスオ"
 		},
 		{
 			"imageName": "wand-of-ignition",
@@ -576,7 +576,7 @@
 			"ability": "setElement",
 			"price": 15,
 			"giftRate": 1,
-			"name": "発火のワンド"
+			"name": "マグマダイブマスオ"
 		},
 		{
 			"imageName": "thorn-whip",
@@ -585,7 +585,7 @@
 			"atk": 2,
 			"price": 2,
 			"giftRate": 1,
-			"name": "いばらのムチ"
+			"name": "マスオ民族"
 		},
 		{
 			"imageName": "leaf-shuriken",
@@ -595,7 +595,7 @@
 			"isPlusAtk": true,
 			"price": 4,
 			"giftRate": 1,
-			"name": "葉っぱ手裏剣"
+			"name": "なめ先生"
 		},
 		{
 			"imageName": "sword-ware",
@@ -604,7 +604,7 @@
 			"atk": 2,
 			"price": 2,
 			"giftRate": 1,
-			"name": "つるぎ焼き"
+			"name": "ディスポーザー"
 		},
 		{
 			"imageName": "flash-dagger",
@@ -615,7 +615,7 @@
 			"curse": "flash",
 			"price": 15,
 			"giftRate": 1,
-			"name": "フラッシュダガー"
+			"name": "難しい！"
 		},
 		{
 			"imageName": "fire-whip",
@@ -624,7 +624,7 @@
 			"atk": 3,
 			"price": 3,
 			"giftRate": 1,
-			"name": "燃えムチ"
+			"name": "どんっだけ！"
 		},
 		{
 			"imageName": "fog-gun",
@@ -635,7 +635,7 @@
 			"curse": "fog",
 			"price": 10,
 			"giftRate": 1,
-			"name": "霧鉄砲"
+			"name": "フルキャラマスオ"
 		},
 		{
 			"imageName": "bur-nut",
@@ -644,7 +644,7 @@
 			"atk": 3,
 			"price": 3,
 			"giftRate": 1,
-			"name": "いがナッツ"
+			"name": "日本刀"
 		},
 		{
 			"imageName": "mature-rubber-bow",
@@ -654,7 +654,7 @@
 			"isPlusAtk": true,
 			"price": 6,
 			"giftRate": 1,
-			"name": "熟成ゴムの弓"
+			"name": "豆腐を50個食うことです"
 		},
 		{
 			"imageName": "star-staff",
@@ -663,7 +663,7 @@
 			"atk": 3,
 			"price": 3,
 			"giftRate": 1,
-			"name": "スタースタッフ"
+			"name": "おはよう一発芸"
 		},
 		{
 			"imageName": "cobra",
@@ -672,7 +672,7 @@
 			"atk": 3,
 			"price": 10,
 			"giftRate": 1,
-			"name": "コブラ"
+			"name": "疲れた～～！！"
 		},
 		{
 			"imageName": "flaming-roll",
@@ -682,7 +682,7 @@
 			"def": 4,
 			"price": 8,
 			"giftRate": 1,
-			"name": "ほむら巻き"
+			"name": "焼きます！"
 		},
 		{
 			"imageName": "fire-crossbow",
@@ -692,7 +692,7 @@
 			"isPlusAtk": true,
 			"price": 8,
 			"giftRate": 1,
-			"name": "ファイヤークロスボウ"
+			"name": "うぉーー！！"
 		},
 		{
 			"imageName": "frozen-hammer",
@@ -701,7 +701,7 @@
 			"atk": 4,
 			"price": 4,
 			"giftRate": 1,
-			"name": "氷結ハンマー"
+			"name": "スノーオ"
 		},
 		{
 			"imageName": "dream-mallet",
@@ -712,7 +712,7 @@
 			"curse": "dream",
 			"price": 15,
 			"giftRate": 1,
-			"name": "夢の木づち"
+			"name": "！！"
 		},
 		{
 			"imageName": "goodbye-sword",
@@ -721,7 +721,7 @@
 			"atk": 4,
 			"price": 10,
 			"giftRate": 1,
-			"name": "さよならの剣"
+			"name": "だったらやめちまえ！"
 		},
 		{
 			"imageName": "blaze-blade",
@@ -730,7 +730,7 @@
 			"atk": 5,
 			"price": 5,
 			"giftRate": 1,
-			"name": "ブレイズブレイド"
+			"name": "マグマダイブ"
 		},
 		{
 			"imageName": "wand-of-mystic-water",
@@ -741,7 +741,7 @@
 			"ability": "setElement",
 			"price": 15,
 			"giftRate": 1,
-			"name": "魔水のワンド"
+			"name": "ベタ男"
 		},
 		{
 			"imageName": "paleolithic-javelin",
@@ -751,7 +751,7 @@
 			"isPlusAtk": true,
 			"price": 10,
 			"giftRate": 1,
-			"name": "旧石器ジャベリン"
+			"name": "鐘"
 		},
 		{
 			"imageName": "justice-lance",
@@ -760,7 +760,7 @@
 			"atk": 5,
 			"price": 5,
 			"giftRate": 1,
-			"name": "ジャスティスランス"
+			"name": "ドラマースオ"
 		},
 		{
 			"imageName": "killer-fork",
@@ -769,7 +769,7 @@
 			"atk": 5,
 			"price": 10,
 			"giftRate": 1,
-			"name": "キラーフォーク"
+			"name": "SHARE MY HEART"
 		},
 		{
 			"imageName": "abyss-dart",
@@ -779,7 +779,7 @@
 			"isPlusAtk": true,
 			"price": 15,
 			"giftRate": 1,
-			"name": "冥矢"
+			"name": "包丁"
 		},
 		{
 			"imageName": "neolithic-tomahawk",
@@ -789,7 +789,7 @@
 			"isPlusAtk": true,
 			"price": 10,
 			"giftRate": 1,
-			"name": "新石器トマホーク"
+			"name": "巨大大仏"
 		},
 		{
 			"imageName": "fire-dragon-s-horn",
@@ -798,7 +798,7 @@
 			"atk": 8,
 			"price": 10,
 			"giftRate": 1,
-			"name": "火竜一角"
+			"name": "マグマダイバー"
 		},
 		{
 			"imageName": "water-dragon-s-horn",
@@ -807,7 +807,7 @@
 			"atk": 8,
 			"price": 10,
 			"giftRate": 1,
-			"name": "水竜一角"
+			"name": "つらら"
 		},
 		{
 			"imageName": "holy-sword",
@@ -816,7 +816,7 @@
 			"atk": 9,
 			"price": 15,
 			"giftRate": 1,
-			"name": "聖剣"
+			"name": "阿波踊りスオ"
 		},
 		{
 			"imageName": "death-s-scythe",
@@ -825,7 +825,7 @@
 			"atk": 10,
 			"price": 20,
 			"giftRate": 1,
-			"name": "死神のカマ"
+			"name": "コウメマスオ"
 		},
 		{
 			"imageName": "diamond-sword",
@@ -834,7 +834,7 @@
 			"atk": 13,
 			"price": 25,
 			"giftRate": 1,
-			"name": "ダイヤモンドソード"
+			"name": "ベタ男の墓"
 		},
 		{
 			"imageName": "dangerous-pestle",
@@ -844,7 +844,7 @@
 			"ability": "danger",
 			"price": 5,
 			"giftRate": 1,
-			"name": "あぶないキネ"
+			"name": "Yeah"
 		},
 		{
 			"imageName": "spark-bag",
@@ -854,7 +854,7 @@
 			"hitRate": 75,
 			"price": 2,
 			"giftRate": 1,
-			"name": "火の粉袋"
+			"name": "放火魔スオ"
 		},
 		{
 			"imageName": "shadow-hand",
@@ -864,7 +864,7 @@
 			"hitRate": 50,
 			"price": 8,
 			"giftRate": 1,
-			"name": "シャドウハンド"
+			"name": "ボコってね"
 		},
 		{
 			"imageName": "fog-fan",
@@ -876,7 +876,7 @@
 			"curse": "fog",
 			"price": 8,
 			"giftRate": 1,
-			"name": "霧の扇"
+			"name": "ファイブティーン"
 		},
 		{
 			"imageName": "vine-shoot",
@@ -887,7 +887,7 @@
 			"ability": "absorbHP",
 			"price": 10,
 			"giftRate": 1,
-			"name": "つるシュート"
+			"name": "サボテンステーキ"
 		},
 		{
 			"imageName": "lightning-kids",
@@ -897,7 +897,7 @@
 			"hitRate": 25,
 			"price": 2,
 			"giftRate": 1,
-			"name": "イナヅマキッズ"
+			"name": "喜びの舞"
 		},
 		{
 			"imageName": "flame-cup",
@@ -907,7 +907,7 @@
 			"hitRate": 75,
 			"price": 6,
 			"giftRate": 1,
-			"name": "火炎杯"
+			"name": "ガチギレマスオ"
 		},
 		{
 			"imageName": "chill-cup",
@@ -917,7 +917,7 @@
 			"hitRate": 75,
 			"price": 6,
 			"giftRate": 1,
-			"name": "冷気杯"
+			"name": "フローズンコーラ"
 		},
 		{
 			"imageName": "plant-cup",
@@ -927,7 +927,7 @@
 			"hitRate": 75,
 			"price": 6,
 			"giftRate": 1,
-			"name": "植物杯"
+			"name": "ハッカ落とし穴"
 		},
 		{
 			"imageName": "rock-cup",
@@ -937,7 +937,7 @@
 			"hitRate": 75,
 			"price": 6,
 			"giftRate": 1,
-			"name": "岩石杯"
+			"name": "令和スオ"
 		},
 		{
 			"imageName": "oversize-snowball",
@@ -947,7 +947,7 @@
 			"hitRate": 50,
 			"price": 5,
 			"giftRate": 1,
-			"name": "特大雪玉"
+			"name": "雪だるまに最適な雪"
 		},
 		{
 			"imageName": "cliff-hammer",
@@ -957,7 +957,7 @@
 			"hitRate": 25,
 			"price": 4,
 			"giftRate": 1,
-			"name": "ガケッツチ"
+			"name": "悶絶するマスオ"
 		},
 		{
 			"imageName": "light-orb",
@@ -967,7 +967,7 @@
 			"hitRate": 75,
 			"price": 10,
 			"giftRate": 1,
-			"name": "光のオーブ"
+			"name": "カイマスオ"
 		},
 		{
 			"imageName": "fire-shower",
@@ -977,7 +977,7 @@
 			"hitRate": 75,
 			"price": 10,
 			"giftRate": 1,
-			"name": "烈火シャワー"
+			"name": "ｱｱｱｱｱｱｱﾔﾒﾃｴｴｴｴｴｴｴｴｴｴ"
 		},
 		{
 			"imageName": "jinn-s-rocking-horse",
@@ -988,7 +988,7 @@
 			"def": 6,
 			"price": 15,
 			"giftRate": 1,
-			"name": "魔神の木馬"
+			"name": "マスオ芝"
 		},
 		{
 			"imageName": "rain-deity-s-saber",
@@ -998,7 +998,7 @@
 			"hitRate": 50,
 			"price": 9,
 			"giftRate": 1,
-			"name": "雨神刀"
+			"name": "二階の屋根から飛び降りたいと思います！"
 		},
 		{
 			"imageName": "flare-axe",
@@ -1008,7 +1008,7 @@
 			"hitRate": 50,
 			"price": 10,
 			"giftRate": 1,
-			"name": "フレアアクス"
+			"name": "えっ、何このmad～！？"
 		},
 		{
 			"imageName": "petit-saturn",
@@ -1018,7 +1018,7 @@
 			"hitRate": 25,
 			"price": 15,
 			"giftRate": 1,
-			"name": "プチサターン"
+			"name": "台風マスオ"
 		},
 		{
 			"imageName": "ascension-bow",
@@ -1030,7 +1030,7 @@
 			"abilityValue": 30,
 			"price": 10,
 			"giftRate": 1,
-			"name": "昇天弓"
+			"name": "ｶｲﾃｷﾆﾃﾞｷﾙ"
 		},
 		{
 			"imageName": "leather-cap",
@@ -2917,7 +2917,7 @@
 			"attackTwice": "二回攻撃する",
 			"attackEveryEnemy": "すべての敵に<br>攻撃する",
 			"attackSomebody": "誰かに攻撃する",
-			"attractDanger": "あぶないキネから<br>99ダメージ",
+			"attractDanger": "Yeahから<br>99ダメージ",
 			"attackDyingly": "昇天のとき75%攻30",
 			"filterAtkElement": "攻撃の属性を<br>こし取る",
 			"bounceWeapon": "無属性武器を弾く",
